@@ -1,33 +1,19 @@
-Trio 5: Lucas Alexandre, Mayke, Vinicius
+Trio 5: Lucas Alexandre, Mayke e Vinicius.
 
-# To do-list
+    Detalhamento dos processos que serão feitos para realizar o projeto => 'Lista de afazeres'
 
-Criar projeto
+•	Criar o projeto
+•	Importar a biblioteca - ‘Materials’
+•	Criar o componente - ‘task’
+•	Criar o Input para receber as tarefas
+•	Criar o elemento de saída – ‘card’
+•	Criar um ‘model’ para receber os dados 
+•	Criar função para adicionar dados do input no card
+•	Criar função para deletar o card
+•	Criar checkbox para marcar o card
+•	Estilizar o layout/design
+•	Criar o ‘service’ para receber dados da API
+•	Implementar API
+•	Sincronizar dados
 
-Importar a biblioteca Materials
-
-Definir componentes
-
-Criar componentes
-
-Criar os blocos
-
-Criar botões de CRUD para os blocos
-
-Implementar botões
-
-Consumir api
-
-Tratar dados da API
-
-
-Estrutura do Projeto:
-
-Quadro>Colunas>Blocos
-
-3 Colunas (A fazer - Em andamento - concluído)
-
-
-Inspirações:
-
-Trello
+       Link do projeto no GitHub: https://github.com/vinicius707/todo-list
