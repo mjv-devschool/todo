@@ -38,11 +38,10 @@
 
 - 
 
-
 ### Devs:
 
-- Priscila
+- 1º grupo: Priscila, Zé e Rafael
 
-- Zé
+### Repositório:
 
-- Rafael
+https://github.com/priscilafernandes/todolistangular
