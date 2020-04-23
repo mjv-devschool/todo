@@ -18,3 +18,5 @@ Trio (20/04 - ):
 6. Integrar componente To Do List com API
 7. Salvar dados do componente nova tarefa na api
 8. Exbir dados da API no componente To List
+
+Repositiorio: https://github.com/erianerik/To-do-list
