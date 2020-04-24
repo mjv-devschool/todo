@@ -23,10 +23,9 @@
 
 ## *API's*
 
-````
-'POST', 'https://ceep.herokuapp.com/cartoes/salvar'
-```
+Enviar os cartões
+`'POST', 'https://ceep.herokuapp.com/cartoes/salvar'`
 
-```
-'GET', 'https://ceep.herokuapp.com/cartoes/carregar'
-```
+
+Carregar os cartões
+`'GET', 'https://ceep.herokuapp.com/cartoes/carregar'`
