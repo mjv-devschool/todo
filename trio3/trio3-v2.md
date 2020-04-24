@@ -2,9 +2,9 @@
 
 Projeto escolhido foi o que estava em andava com o grupo da Ingrid. Os motivos pelos quais chegamos a essa escolha foram: andamento do projeto, clareza e organização do código. Outro motivo foi que todos conseguiram entender a lógica que estava sendo seguida rapidamente e concordaram que seria um bom caminho para continuar. 
 
-Link para repositório https://github.com/ingridfs/To-Do-List
+- Link para repositório https://github.com/ingridfs/To-Do-List
 
-Etapas restante no projeto
+- Etapas restante no projeto
 
 * Criar função para ‘marcar como feito’ 
 * Criar função para salvar o marcar como feito 
