@@ -20,3 +20,13 @@
   ]
 }
 ```
+
+## *API's*
+
+````
+'POST', 'https://ceep.herokuapp.com/cartoes/salvar'
+```
+
+```
+'GET', 'https://ceep.herokuapp.com/cartoes/carregar'
+```
